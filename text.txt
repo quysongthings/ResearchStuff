@@ -1,2 +1,4 @@
 file dau tien
 fuck life
+
+thêm function 1
